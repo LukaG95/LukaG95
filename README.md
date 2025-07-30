@@ -1,4 +1,4 @@
-# Hi, I'm Luka 👋
+# Hi, my name is Luka 👋
 
 I'm a full-stack developer with a passion for creating beautiful UI.
 
