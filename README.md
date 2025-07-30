@@ -1,6 +1,7 @@
 # Hi, my name is Luka 👋
 
 I'm a full-stack developer with a passion for creating beautiful UI.
+
 Particularly love translating design into pixel perfect & blazing fast apps.
 
 ## 🔧 Technologies & Tools
