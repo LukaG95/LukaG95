@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with a passion for creating beautiful UI.
 
-Particularly love translating design into pixel perfect & blazing fast apps.
+-> Particularly love translating design into pixel perfect & blazing fast apps.
 
 ## 🔧 Technologies & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
