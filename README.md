@@ -19,5 +19,5 @@ I'm a full-stack developer with a passion for creating beautiful UI.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 ## 🧠 Currently Learning
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React%20Native-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
